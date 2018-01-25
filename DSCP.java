@@ -14,7 +14,7 @@ public class DSCP {
 	
 	public int activationRecord;
 	
-	//----> this piece of shit is zero for all :|
+	//----> this is zero for all :|
 	//	public LinkedList<Integer> lb;
 	public LinkedList<Integer> ub; 
 	public LinkedList<DSCP> arg; 
